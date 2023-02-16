@@ -31,11 +31,17 @@ The x y(experimental) and y(calculated) values will then be printed
 after the optimisation parameter final values. 
 
 Example input data - 6 data points
+
 0 	-10
+
 1 	-5
+
 2 	0
+
 3 	3
+
 5 	4
+
 10 	-10
 
 Example for initial parameter estimates

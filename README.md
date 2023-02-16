@@ -7,8 +7,11 @@ Program r1calc This code uses the Gauss Newton non linear regression algorithm t
 fit to data from the NMR inversion recovery Fourier Transform (IRFT) experiment for a single isolated spin
 
 There are 3 optimisation parameters for which initial esimates must be provided.
+
 These are (effectively) peak area at zero time, peak area at long time and relaxation rate R1
+
 Given these estimates the program iterates until the final and optimum least squares solution is found.
+
 Note that if the initial estimates are very poor then the method may not converge
 
 Note that this code is easily modified to fit other functional forms.
